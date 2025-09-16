@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "onlyone" "\0"
+            VALUE "FileDescription", "onlyone_fixed" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "onlyone" "\0"
+            VALUE "InternalName", "onlyone_fixed" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "onlyone.exe" "\0"
-            VALUE "ProductName", "onlyone" "\0"
+            VALUE "OriginalFilename", "onlyone_fixed.exe" "\0"
+            VALUE "ProductName", "onlyone_fixed" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,6 +1,6 @@
 {
-    "name": "onlyone",
-    "short_name": "onlyone",
+    "name": "onlyone_fixed",
+    "short_name": "onlyone_fixed",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

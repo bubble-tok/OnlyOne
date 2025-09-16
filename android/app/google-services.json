@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "618816893913",
+    "project_id": "onlyone-48ae8",
+    "storage_bucket": "onlyone-48ae8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618816893913:android:0693b7994b65b79bf21fc8",
+        "android_client_info": {
+          "package_name": "com.bubble.OnlyOneApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618816893913-pnpqp81gu6n49nip1baoqder278qb8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGJFVwfyKEdrHY3un_BrDqcOOGodeb9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618816893913-pnpqp81gu6n49nip1baoqder278qb8bo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618816893913-rjdrcaonpfgedek5vrokkc7vtb7hc8bo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlyoneFixed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618816893913:android:2e8265ab3626c6fff21fc8",
+        "android_client_info": {
+          "package_name": "com.example.onlyone_fixed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618816893913-pnpqp81gu6n49nip1baoqder278qb8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGJFVwfyKEdrHY3un_BrDqcOOGodeb9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618816893913-pnpqp81gu6n49nip1baoqder278qb8bo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618816893913-rjdrcaonpfgedek5vrokkc7vtb7hc8bo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlyoneFixed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
